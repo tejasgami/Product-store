@@ -1,0 +1,13 @@
+
+node_modules
+npm-debug.log
+.git
+tests
+.env
+coverage
+*.log
+Dockerfile
+README.md
+.prettierrc
+.prettierrignore
+swagger.json

@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Docker files
+.dockerignore
+Dockerfile
+
+# Build outputs
+dist/
+build/
+
+# Misc
+*.log
+*.swp
+.idea/
+.vscode/
